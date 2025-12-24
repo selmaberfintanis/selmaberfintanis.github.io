@@ -1,34 +1,26 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Selma Berfin Tanis (Sapci)
-    # - name: Date of Birth
-    #   value: 1997
     - name: Languages
-      value: English, Turksih
+      value: English, Turkish
 
 - title: Education
   type: time_table
   contents:
-    - title: Master of Science in Cognitive Psychology
+    - title: MSc in Psychology (Cognitive track)
       institution: Sabanci University | Istanbul, Turkey
-      year: 09/2022 - present
+      year: 09/2022 - 08/2025
       description:
         - CGPA 3.95/4.00
-        - "Academic Advisor: Dr. Cagla Aydin"
 
-- title: Education
-  type: time_table
-  contents:
-    - title: Bachelor of Arts in Psychology
+    - title: BA in Psychology
       institution: Sabanci University | Istanbul, Turkey
       year: 09/2017 - 06/2022
       description:
         - CGPA 3.92/4.0
-        - Top ranking student in the class of Psychology 2022
-        - Minor Studies in Gender & Women’s Studies
-
+        - Minor Studies in Gender & Women’s Studies (4.00/4.00)
+        - Graduated top of the class of Psychology 2022
+        
 - title: Experience
   type: time_table
   contents:
