@@ -12,14 +12,13 @@
       year: 09/2022 - 08/2025
       description:
         - CGPA 3.95/4.00
-
+        - "Advisor: Dr. Cagla Aydin"
     - title: BA in Psychology
       institution: Sabanci University | Istanbul, Turkey
       year: 09/2017 - 06/2022
       description:
         - CGPA 3.92/4.0
         - Minor Studies in Gender & Women’s Studies (4.00/4.00)
-        - Graduated top of the class of Psychology 2022
         
 - title: Experience
   type: time_table
@@ -91,76 +90,3 @@
         - "Project of the Scientific and Technological Research Council of Turkey, 1512 Techno-Initiative Capital Support Program"
         - "Assisted in developing a tool for children that filters hate speech in online platforms using Python"
         - "Labelled the “Twitter Posts” data for the toxicity levels to educate the artificial intelligence model"
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - title: TUBITAK 2224-A - Grant Program for Participation in Scientific Meetings Abroad
-      year: 06/2024
-      description: $2000, International conference participation grant for Turkish scientists
-
-    - title: The PHC (Hubert Curien Partnership) Bosphorus Programme Project Fund
-      year: 06/2024
-      description: €1000, Fund for accommodation in France for a project meeting, provided by the French Ministry of Europe and Foreign Affairs (MEAE) & the French Ministry of Higher Education and Research (MESR)
-
-    - title: Association for Psychological Science (APS) Student Travel Award
-      year: 05/2024
-      description: $250, APS 2024 Annual Convention travel fund
-
-    - title: SU Faculty of Arts & Social Sciences (FASS) International Conference Grant
-      year: 04/2024
-      desription: €400, International conference participation grant for selected Sabanci University graduate students
-
-    - title: TUBITAK ARDEB Project Scholarship
-      year: 09/2023
-      desription: Monthly stipend (2 years) and project travel fund ($1000)
-
-    - title: TUBITAK BIDEB 2210/A MSc/MA Scholarship Program
-      year: 09/2022
-      desription: Monthly stipend (2 years), based on academic achievement (declined)
-    
-    - title: Sabanci University Graduate Studies Full Scholarship
-      year: 09/2022
-      desription: Sabanci University full tuition fee ($24,500/year, 3 years) and a monthly stipend (2 years)
-
-    - title: Sabanci University, Dean’s List
-      year: fall 2018 - spring 2022
-      desription: High Honor, present in all semesters
-
-    - title: SUGender Scholarship - Gender & Women’s Studies Center of Excellence
-      year: 10/2020
-      desription: Monthly stipend during the academic year
-
-    - title: Outstanding Achievement Metin Sabanci Full Scholarship
-      year: 09/2017
-      desription: Sabanci University full tuition fee ($24,500/year, 5 years) and a monthly stipend based on a ranking of 0.15\% in SAT-like nationwide university entrance exam among 2 million high school students
-
-
-- title: References
-  type: nested_list
-  contents:
-    - title: "Dr. Cagla Aydin"
-      items:
-        - "Associate Professor of Psychology"
-        - "Faculty of Arts & Social Sciences | Sabanci University"
-        - "cagla.aydin@sabanciuniv.edu"
-    - title: "Dr. Seckin Arslan"
-      items:
-        - "Associate Researcher (Neurolinguistics / Cognitive and Behavioural Neurosciences)"
-        - "Bases, Corpus, Langage | CNRS & Côte d’Azur University"
-        - "seckin.arslan@univ-cotedazur.fr"
-    - title: "Dr. Aysecan Terzioglu"
-      items:
-        - "Associate Professor of Cultural Studies & Gender Studies"
-        - "Faculty of Arts & Social Sciences | Sabanci University"
-        - "aysecan.terzioglu@sabanciuniv.edu"
-    - title: "Dr. Simon De Deyne"
-      items:
-        - "Senior Research Associate, Cognitive Scientist"
-        - "Melbourne School of Psychological Sciences | The University of Melbourne"
-        - "simon.dedeyne@unimelb.edu.au"
-    - title: "Dr. Eren Günseli"
-      items:
-        - "Assistant Professor of Psychology"
-        - "Faculty of Arts & Social Sciences | Sabanci University"
-        - "eren.gunseli@sabanciuniv.edu"
