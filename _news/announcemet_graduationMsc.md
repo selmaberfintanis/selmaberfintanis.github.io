@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Officially an MSc! 🥳
-date: 2024-07-22
+date: 2025-07-22
 inline: false
 related_posts: false
 ---
